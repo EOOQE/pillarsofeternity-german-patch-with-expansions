@@ -407,7 +407,7 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Der Dyrwald besteht aus sieben Grafschaften. Die Bademars herrschen über die nördliche Grafschaft, die 'der Griff' genannt wird.“</DefaultText>
+      <DefaultText>„Der Dyrwald besteht aus sieben Grafschaften. Die Bademars herrschen über die nördliche Grafschaft, die ‚der Griff‘ genannt wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,7 +457,7 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Als der Dyrwald noch eine bloße Kolonie Aedyrs war, war er in neun Grafschaften unterteilt. Als die Aedyraner besiegt und schließlich vertrieben wurden, gingen zwei der Grafschaften in anderen auf und die Grenzen wurden neu gezogen. Der Yenwald war eine dieser Grafschaften.“</DefaultText>
+      <DefaultText>„Als der Dyrwald noch eine bloße Kolonie Aedyrs war, war er in neun Grafschaften unterteilt. Als die Aedyrer besiegt und schließlich vertrieben wurden, gingen zwei der Grafschaften in anderen auf und die Grenzen wurden neu gezogen. Der Yenwald war eine dieser Grafschaften.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,12 +472,12 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Er stammt aus einem alten aedyranischen Geschlecht, das bis in die Zeit vor dem Widerstandskrieg zurückreicht. Sein Urgroßvater, Rännig Gathbin, war während des Kriegs der Graf von Yenwald. Bis ihm sein Land weggenommen wurde und er aus dem Dyrwald verjagt wurde.“</DefaultText>
+      <DefaultText>„Er stammt aus einem alten aedyrischen Geschlecht, das bis in die Zeit vor dem Widerstandskrieg zurückreicht. Sein Urgroßvater, Rännig Gathbin, war während des Kriegs der Graf von Yenwald. Bis ihm sein Land weggenommen wurde und er aus dem Dyrwald verjagt wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Ohne Druckmittel musste der Graf hinnehmen, dass ihm seine Ländereien fast vollständig entzogen wurden und die Grafschaft Yenwald in der heute als 'der Griff' bekannten Grafschaft aufging.“</DefaultText>
+      <DefaultText>„Ohne Druckmittel musste der Graf hinnehmen, dass ihm seine Ländereien fast vollständig entzogen wurden und die Grafschaft Yenwald in der heute als „der Griff“ bekannten Grafschaft aufging.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -619,8 +619,8 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Was sollte das mit dem 'Straßenwächter'?“</DefaultText>
-      <FemaleText>„Was sollte das mit dem 'Straßenwächterin'?“</FemaleText>
+      <DefaultText>„Was sollte das mit dem ‚Straßenwächter‘?“</DefaultText>
+      <FemaleText>„Was sollte das mit dem ‚Straßenwächterin‘?“</FemaleText>
     </Entry>
     <Entry>
       <ID>142</ID>
